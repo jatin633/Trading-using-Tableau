@@ -25,4 +25,4 @@ stock.twb is a tableau file with five objectices
  These formulas are used to analyse the fluctuation that come in the price of stocks.
  
  # tading video.mp4
- It is vedio description of project
+ It is video description of project
