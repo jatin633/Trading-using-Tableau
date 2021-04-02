@@ -23,3 +23,6 @@ stock.twb is a tableau file with five objectices
  Future Prediction --- if [Close] < [Open] THEN 0 ELSEif [Close] > [Open] THEN 1 END
  
  These formulas are used to analyse the fluctuation that come in the price of stocks.
+ 
+ # tading video.mp4
+ It is vedio description of project
