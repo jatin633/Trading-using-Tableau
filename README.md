@@ -1,10 +1,10 @@
 # Trading-using-Tableau
 stock.twb is a tableau file with five objectices
-Volatility index that ranks stocks based on intraday price movements. (this is a candelstick graph)
-Complete Stock Price Analysis for PCLN Stock. (Complete detailed graph of PCLN stock from start to end date)
-Top 10 Stock for the entire duration. (this is a running chart and provide top 10 stock from start to end date)
-Pair Trading -- Top 5 pair trading stock from 2013 to 2017. (Pair trading stock means that they are moving together as a pair according to their stock price open,close and low)
-Prediction Chart of AZO Stock. (AZO (1).csv is a subset of data.csv and provide the future prediction cost of stock based on previous up and down)
+ Volatility index that ranks stocks based on intraday price movements. (this is a candelstick graph)
+ Complete Stock Price Analysis for PCLN Stock. (Complete detailed graph of PCLN stock from start to end date)
+ Top 10 Stock for the entire duration. (this is a running chart and provide top 10 stock from start to end date)
+ Pair Trading -- Top 5 pair trading stock from 2013 to 2017. (Pair trading stock means that they are moving together as a pair according to their stock price open,close and low)
+ Prediction Chart of AZO Stock. (AZO (1).csv is a subset of data.csv and provide the future prediction cost of stock based on previous up and down)
 
 # important formulas --> 
  High Low -- SUM([Low]) - SUM([High])   
